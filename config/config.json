@@ -1,0 +1,12 @@
+{
+    "appConfig": {
+    "db": {
+        "type": "mongo",
+        "host": "localhost",
+        "port": 27017,
+        "username": "root",
+        "password": "test",
+        "dbName": "pairtrade"
+    }
+}
+}

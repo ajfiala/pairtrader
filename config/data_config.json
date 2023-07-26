@@ -1,0 +1,10 @@
+{
+    "instruments": {"GBP_JPY":"GBP_JPY", "USD_JPY":"USD_JPY"},
+    "granularity": "M1",
+    "price_component": "M",
+    "units": 1,
+    "smooth": false,
+    "daily_alignment": 17,
+    "alignment_timezone": "America/New_York",
+    "weekly_alignment": "Friday"
+}

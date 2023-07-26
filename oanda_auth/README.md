@@ -1,0 +1,1 @@
+this directory expects and account_id.txt and an api_key.txt with the Oanda account ID and API key in them for authentication
